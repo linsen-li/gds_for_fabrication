@@ -8,3 +8,5 @@ The wg_array.py is the lib that define the function for wg structure and frame s
 The main.py is helping to generate the sweep of different nanostructure parameters.
 
 The .gds file can be viewed with the open source software KLayout (https://www.klayout.de/)
+
+This SnV_photonics_test_v2.gds is the result of the python script run with the main.py with the lib wg_array.py.
